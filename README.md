@@ -9,6 +9,7 @@ CONTRIBUTORS:-
  3. VAIBHAV KAUSHIK (UPES, DEHARDUN)
 
 Use the menu.c file and compile it.
+
 STEP 1. Enter your required sceduling algorithm.
 
 STEP 2. Enter the required number of processes.
