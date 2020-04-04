@@ -10,8 +10,11 @@ CONTRIBUTORS:-
 
 Use the menu.c file and compile it.
 STEP 1. Enter your required sceduling algorithm.
+
 STEP 2. Enter the required number of processes.
+
 STEP 3. Enter the BURST TIME and the ARRIVAL TIME for each process.
+
 STEP 4. Hit Enter
 
 You will find the Avg. waiting time, Avg. Turn arounf time and Gantt chart representation of the processes according to the process scheduling algorithms associated with it. 
